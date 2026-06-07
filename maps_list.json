@@ -1,0 +1,15 @@
+{
+    "ballistic engine": "map_ballistic_engine.png",
+    "vox liberatis": "map_vox_liberatis.png",
+    "fall of atreus": "map_fall_of_atreus.png",
+    "decapitation": "map_decapitation.png",
+    "exfiltration": "map_exfiltration.png",
+    "termination": "map_termination.png",
+    "reclamation": "map_reclamation.png",
+    "reliquary": "map_reliquary.png",
+    "disruption": "map_disruption.png",
+    "purgation": "map_purgation.png",
+    "obelisk": "map_obelisk.png",
+    "inferno": "map_inferno.png",
+    "vortex": "map_vortex.png"
+}
