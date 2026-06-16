@@ -1,15 +1,14 @@
 {
-    "ballistic engine": "map_ballistic_engine.png",
-    "vox liberatis": "map_vox_liberatis.png",
-    "fall of atreus": "map_fall_of_atreus.png",
-    "decapitation": "map_decapitation.png",
-    "exfiltration": "map_exfiltration.png",
-    "termination": "map_termination.png",
-    "reclamation": "map_reclamation.png",
-    "reliquary": "map_reliquary.png",
-    "disruption": "map_disruption.png",
-    "purgation": "map_purgation.png",
-    "obelisk": "map_obelisk.png",
-    "inferno": "map_inferno.png",
-    "vortex": "map_vortex.png"
+    "ballistic engine": "map_ballistic_engine.jpg",
+    "vox liberatis": "map_vox_liberatis.jpg",
+    "fall of atreus": "map_fall_of_atreus.jpg",
+    "decapitation": "map_decapitation.jpg",
+    "exfiltration": "map_exfiltration.jpg",
+    "termination": "map_termination.jpg",
+    "reclamation": "map_reclamation.jpg",
+    "reliquary": "map_reliquary.jpg",
+    "disruption": "map_disruption.jpg",
+    "obelisk": "map_obelisk.jpg",
+    "inferno": "map_inferno.jpg",
+    "vortex": "map_vortex.jpg"
 }
